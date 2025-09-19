@@ -19,21 +19,39 @@ Me interesa crear proyectos que aporten soluciones útiles y me permitan crecer 
 - **Entornos y herramientas:** Visual Studio Code, Git, GitHub, MySQL Workbench, GameMaker Studio 2.  
 - **En aprendizaje:** HTML, CSS, JavaScript.  
 ---
-## Certificados
-- [Curso de SQL Básico – HackerRank](https://www.hackerrank.com/certificates/5cb4ace3a386) 
-- [Curso de SQL Intermedio – HackerRank](https://www.hackerrank.com/certificates/58d3e6c9c2a0)    
-- [Certificado de Python básico – HackerRank](https://www.hackerrank.com/certificates/abdcc82ecd9f)  
+## Certificados (Click a la imagen para verlos en su sitio oficial)
+- Python Básico
+  ---
+[![Python Básico – HackerRank](https://github.com/Khal3201/Certificados/blob/c33886cf498ce0575bd8a23bd71833265013a19d/python_basic%20certificate.png)](https://www.hackerrank.com/certificates/5cb4ace3a386)
+
+- SQL Básico
+  ---
+[![SQL Básico – HackerRank](https://github.com/Khal3201/Certificados/blob/c33886cf498ce0575bd8a23bd71833265013a19d/sql_basic%20certificate.png)](https://www.hackerrank.com/certificates/58d3e6c9c2a0)
+
+- SQL Intermedio
+  ---
+[![SQL Intermedio – HackerRank](https://github.com/Khal3201/Certificados/blob/c33886cf498ce0575bd8a23bd71833265013a19d/sql_intermediate%20certificate.png)](https://www.hackerrank.com/certificates/abdcc82ecd9f)
+
 ---
 
 ## Proyectos destacados
-- **Ejercicios SQL avanzados** – Consultas con joins y prácticas de manejo de bases de datos.
-- https://github.com/Khal3201/Clase_bases_de_datos_SQL.git
-- **Programa para la gestión de cursos** - Código y documentación de un prototipo para la gestión de cursos
-- https://github.com/Khal3201/Academix.git
 
+### [Academix](https://github.com/Khal3201/Academix)
+
+Aplicación en Python para gestión académica.
+
+### [Galaga_Pygame](https://github.com/Khal3201/Galaga_Pygame)
+
+Juego clásico Galaga desarrollado con Pygame.
+
+### [Clase_bases_de_datos_SQL](https://github.com/Khal3201/Clase_bases_de_datos_SQL)
+
+Conocimientos adquiridos en clase
 ---
 
 ## Objetivos actuales
 - Fortalecer conocimientos en desarrollo web.  
-- Mejorar mis prácticas de programación en Java y SQL.  
-- Publicar proyectos con documentación clara y buen control de versiones.  
+- Mejorar mis prácticas de programación en python y SQL.  
+
+
+¡Gracias por visitar mi perfil!
