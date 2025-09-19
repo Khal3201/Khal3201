@@ -18,7 +18,11 @@ Me interesa crear proyectos que aporten soluciones útiles y me permitan crecer 
 - **Bases de datos:** MySQL, SQL Server.  
 - **Entornos y herramientas:** Visual Studio Code, Git, GitHub, MySQL Workbench, GameMaker Studio 2.  
 - **En aprendizaje:** HTML, CSS, JavaScript.  
-
+---
+## Certificados
+- [Curso de SQL Básico – HackerRank](https://www.hackerrank.com/certificates/5cb4ace3a386) 
+- [Curso de SQL Intermedio – HackerRank](https://www.hackerrank.com/certificates/58d3e6c9c2a0)    
+- [Certificado de Python básico – HackerRank](https://www.hackerrank.com/certificates/abdcc82ecd9f)  
 ---
 
 ## Proyectos destacados
