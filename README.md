@@ -23,7 +23,9 @@ Me interesa crear proyectos que aporten soluciones útiles y me permitan crecer 
 
 ## Proyectos destacados
 - **Ejercicios SQL avanzados** – Consultas con joins y prácticas de manejo de bases de datos.
+- https://github.com/Khal3201/Clase_bases_de_datos_SQL.git
 - **Programa para la gestión de cursos** - Código y documentación de un prototipo para la gestión de cursos
+- https://github.com/Khal3201/Academix.git
 
 ---
 
