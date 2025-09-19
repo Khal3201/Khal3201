@@ -47,6 +47,7 @@ Juego clásico Galaga desarrollado con Pygame.
 ### [Clase_bases_de_datos_SQL](https://github.com/Khal3201/Clase_bases_de_datos_SQL)
 
 Conocimientos adquiridos en clase
+
 ---
 
 ## Objetivos actuales
