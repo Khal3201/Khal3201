@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Khal
 
-<!--
-**Khal3201/Khal3201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de programación y aspirante a Ingeniería en Sistemas.  
+Me interesa crear proyectos que aporten soluciones útiles y me permitan crecer como desarrollador.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+- Estudiante de programación en México.
+- Interesado en el desarrollo de software, bases de datos y juegos.
+- Desarrollo un juego RPG 2D en GameMaker Studio 2 con narrativa ramificada.
+- Busco mejorar mis habilidades en proyectos prácticos y aportar a la comunidad de programación.
+
+---
+
+## Tecnologías y herramientas
+- **Lenguajes:** Java, Python, SQL.  
+- **Bases de datos:** MySQL, SQL Server.  
+- **Entornos y herramientas:** Visual Studio Code, Git, GitHub, MySQL Workbench, GameMaker Studio 2.  
+- **En aprendizaje:** HTML, CSS, JavaScript.  
+
+---
+
+## Proyectos destacados
+- **Ejercicios SQL avanzados** – Consultas con joins y prácticas de manejo de bases de datos.
+- **Programa para la gestión de cursos** - Código y documentación de un prototipo para la gestión de cursos
+
+---
+
+## Objetivos actuales
+- Fortalecer conocimientos en desarrollo web.  
+- Mejorar mis prácticas de programación en Java y SQL.  
+- Publicar proyectos con documentación clara y buen control de versiones.  
