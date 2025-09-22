@@ -36,6 +36,10 @@ Me interesa crear proyectos que aporten soluciones útiles y me permitan crecer 
 
 ## Proyectos destacados
 
+### [REM](https://github.com/Khal3201/RPG-REM)
+
+Juego RPG TOP-DOWN en GameMaker Studio con el lenguaje GML2
+
 ### [Academix](https://github.com/Khal3201/Academix)
 
 Aplicación en Python para gestión académica.
